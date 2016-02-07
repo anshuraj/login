@@ -18,8 +18,8 @@ session_start();
 <link href="css/style.css" rel="stylesheet">
 <script type="text/javascript" src="js/jquery-1.12.0.min.js"></script>
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
-<script type="text/javascript" src="script.js"></script>
-<script type="text/javascript" src="validation.js"></script>
+<script type="text/javascript" src="js/script.js"></script>
+<script type="text/javascript" src="js/validation.js"></script>
 
 </head>
 <body>
