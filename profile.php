@@ -22,5 +22,7 @@ $row = mysql_fetch_array($query) or die(mysql_error());
 
 Welcome <?php echo $row['username']; ?>
 
+<a href="logout.php">Logout</a>
+
 </body>
 </html>
